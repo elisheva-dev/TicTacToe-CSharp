@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pTkn95wB1qk=",
+  "success": true,
+  "projectFilePath": "E:\\לימודים שנה א\\C#\\איקס עיגול\\איקס עיגול\\איקס עיגול.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NEW USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\NEW USER\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\NEW USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\NEW USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

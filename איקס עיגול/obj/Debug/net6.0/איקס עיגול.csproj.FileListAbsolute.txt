@@ -1,0 +1,29 @@
+C:\Users\User\Pictures\אלישבע\C#\איקס עיגול\איקס עיגול\bin\Debug\net6.0\איקס עיגול.exe
+C:\Users\User\Pictures\אלישבע\C#\איקס עיגול\איקס עיגול\bin\Debug\net6.0\איקס עיגול.deps.json
+C:\Users\User\Pictures\אלישבע\C#\איקס עיגול\איקס עיגול\bin\Debug\net6.0\איקס עיגול.runtimeconfig.json
+C:\Users\User\Pictures\אלישבע\C#\איקס עיגול\איקס עיגול\bin\Debug\net6.0\איקס עיגול.dll
+C:\Users\User\Pictures\אלישבע\C#\איקס עיגול\איקס עיגול\bin\Debug\net6.0\איקס עיגול.pdb
+C:\Users\User\Pictures\אלישבע\C#\איקס עיגול\איקס עיגול\obj\Debug\net6.0\איקס עיגול.csproj.AssemblyReference.cache
+C:\Users\User\Pictures\אלישבע\C#\איקס עיגול\איקס עיגול\obj\Debug\net6.0\איקס עיגול.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Pictures\אלישבע\C#\איקס עיגול\איקס עיגול\obj\Debug\net6.0\איקס עיגול.AssemblyInfoInputs.cache
+C:\Users\User\Pictures\אלישבע\C#\איקס עיגול\איקס עיגול\obj\Debug\net6.0\איקס עיגול.AssemblyInfo.cs
+C:\Users\User\Pictures\אלישבע\C#\איקס עיגול\איקס עיגול\obj\Debug\net6.0\איקס עיגול.csproj.CoreCompileInputs.cache
+C:\Users\User\Pictures\אלישבע\C#\איקס עיגול\איקס עיגול\obj\Debug\net6.0\איקס עיגול.dll
+C:\Users\User\Pictures\אלישבע\C#\איקס עיגול\איקס עיגול\obj\Debug\net6.0\refint\איקס עיגול.dll
+C:\Users\User\Pictures\אלישבע\C#\איקס עיגול\איקס עיגול\obj\Debug\net6.0\איקס עיגול.pdb
+C:\Users\User\Pictures\אלישבע\C#\איקס עיגול\איקס עיגול\obj\Debug\net6.0\איקס עיגול.genruntimeconfig.cache
+C:\Users\User\Pictures\אלישבע\C#\איקס עיגול\איקס עיגול\obj\Debug\net6.0\ref\איקס עיגול.dll
+E:\לימודים שנה א\C#\איקס עיגול\איקס עיגול\bin\Debug\net6.0\איקס עיגול.exe
+E:\לימודים שנה א\C#\איקס עיגול\איקס עיגול\bin\Debug\net6.0\איקס עיגול.deps.json
+E:\לימודים שנה א\C#\איקס עיגול\איקס עיגול\bin\Debug\net6.0\איקס עיגול.runtimeconfig.json
+E:\לימודים שנה א\C#\איקס עיגול\איקס עיגול\bin\Debug\net6.0\איקס עיגול.dll
+E:\לימודים שנה א\C#\איקס עיגול\איקס עיגול\bin\Debug\net6.0\איקס עיגול.pdb
+E:\לימודים שנה א\C#\איקס עיגול\איקס עיגול\obj\Debug\net6.0\איקס עיגול.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים שנה א\C#\איקס עיגול\איקס עיגול\obj\Debug\net6.0\איקס עיגול.AssemblyInfoInputs.cache
+E:\לימודים שנה א\C#\איקס עיגול\איקס עיגול\obj\Debug\net6.0\איקס עיגול.AssemblyInfo.cs
+E:\לימודים שנה א\C#\איקס עיגול\איקס עיגול\obj\Debug\net6.0\איקס עיגול.csproj.CoreCompileInputs.cache
+E:\לימודים שנה א\C#\איקס עיגול\איקס עיגול\obj\Debug\net6.0\איקס עיגול.dll
+E:\לימודים שנה א\C#\איקס עיגול\איקס עיגול\obj\Debug\net6.0\refint\איקס עיגול.dll
+E:\לימודים שנה א\C#\איקס עיגול\איקס עיגול\obj\Debug\net6.0\איקס עיגול.pdb
+E:\לימודים שנה א\C#\איקס עיגול\איקס עיגול\obj\Debug\net6.0\איקס עיגול.genruntimeconfig.cache
+E:\לימודים שנה א\C#\איקס עיגול\איקס עיגול\obj\Debug\net6.0\ref\איקס עיגול.dll

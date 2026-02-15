@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "איקס עיגול", "איקס עיגול\איקס עיגול.csproj", "{7FE000A7-93B4-4BA2-8342-320E0F4BACB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FE000A7-93B4-4BA2-8342-320E0F4BACB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE000A7-93B4-4BA2-8342-320E0F4BACB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE000A7-93B4-4BA2-8342-320E0F4BACB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE000A7-93B4-4BA2-8342-320E0F4BACB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15728E84-B171-498E-BDCF-E063CAD80B41}
+	EndGlobalSection
+EndGlobal
